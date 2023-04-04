@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.7.0_21-b11 (Oracle Corporation)
+Implementation-Title: jTDS JDBC Driver
+Implementation-Version: 1.3.1
+Implementation-URL: http://jtds.sourceforge.net
+Specification-Title: JDBC
+Specification-Version: 3.0
+Main-Class: net.sourceforge.jtds.jdbc.Driver
+
